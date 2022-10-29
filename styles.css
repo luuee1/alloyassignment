@@ -1,0 +1,21 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: list-item;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #9F8772;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
